@@ -1,4 +1,4 @@
-# BKK-District
+# BKK-District geojson
 ## Data reference : Open Street Map
 
 ### Each Districts has 2 properties; 
