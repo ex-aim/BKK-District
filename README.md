@@ -1,7 +1,7 @@
 # BKK-District
 ## Data reference : Open Street Map
 
-### Each District has 2 properties; 
+### Each Districts has 2 properties; 
 #### 1 name (English)
 #### 2 CentrePoint (estimated value from OSM)
 
